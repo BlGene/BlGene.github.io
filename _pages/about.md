@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: [University Siste](https://lmb.informatik.uni-freiburg.de/people/argusm/)
+subtitle: subtitle
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    Mt. Fuji
+    <p> Mt. Fuji </p>
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
