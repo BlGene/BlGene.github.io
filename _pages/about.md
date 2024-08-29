@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: subtitle
+subtitle: 
 
 profile:
   align: right
@@ -26,4 +26,4 @@ In my recent works, I am trying to build few-shot robot imitation systems that a
 
 I have completed a research internship at [BAIR](https://bair.berkeley.edu/) under the guidance of [Evan Shelhammer](http://imaginarynumber.net/) and at Symbio Robotics together with Jon Long, and published work from both internships.
 
-My university can be found [here](https://lmb.informatik.uni-freiburg.de/people/argusm/).
+My university website can be found [here](https://lmb.informatik.uni-freiburg.de/people/argusm/).
