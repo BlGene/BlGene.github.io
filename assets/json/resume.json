@@ -24,13 +24,85 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Department of Computer Science, University of Freiburg",
+      "position": "Postdoc",
+      "url": "https://uni-freiburg.de/",
+      "startDate": "2022-03-01",
+      "endDate": "",
+      "summary": "",
+      "highlights": ["Supervising PhD students, including project planning, writing project proposals for funding, assessing applicants, supervising Masters and Bachelors theses", "Holding lectures, creating presentations and figures, presenting at international conferences", "Coordinating collaboration between departments and research groups, e.g. the university hospital and robotics lab, presentations to stakeholders at different organizational levels", "Organizing team building and social events, including group retreats", "Published 20 papers with 919 citations in total"]
+    },
+    {
+      "name": "Department of Computer Science, University of Freiburg",
+      "position": "PhD Student",
+      "url": "https://uni-freiburg.de/",
+      "startDate": "2017-11-01",
+      "endDate": "2022-02-01",
+      "summary": "",
+      "highlights": ["Researched and published papers at top conferences in the areas of computer vision, reinforcement learning, and self-supervised learning, etc.", "Supervised seminars, Bachelor and Master theses"]
+    },
+    {
+      "name": "Symbio Robotics",
+      "position": "Research Intern, Andressen Horowitz Internship Program",
+      "url": "",
+      "startDate": "2017-06-01",
+      "endDate": "2017-09-01",
+      "summary": "",
+      "highlights": ["Developed computer vision algorithms for the rapid automation of manual tasks in automotive vehicle assembly", "Company wide final project presentation, publication of results in academic journal"]
+    },
+    {
+      "name": "Radboud University",
+      "position": "Researcher, Diagnostic Image Analysis Group",
+      "url": "",
+      "startDate": "2016-10-01",
+      "endDate": "2017-10-01",
+      "summary": "",
+      "highlights": ["Researched computer vision algorithms for the automated assessment of Chronic Obstructive Pulmonary Disease (COPD) from CT scans in the context of medical screening", "Project conception for self-supervised learning of image diagnoses"]
+    },
+    {
+      "name": "University of Berkeley",
+      "position": "Intern, Berkeley Artifical Intelligence Lab (BAIR)",
+      "url": "",
+      "startDate": "2016-06-01",
+      "endDate": "2016-10-01",
+      "summary": "",
+      "highlights": ["Researched self-supervised pre-training for reinforcement learning at BAIR with Professor Trevor Darell"]
+    },
+    {
+      "name": "Mercedes-Benz Group",
+      "position": "Intern & Software Engineer, Visual Perception Group",
+      "url": "",
+      "startDate": "2012-05-01",
+      "endDate": "2012-09-01",
+      "summary": "",
+      "highlights": ["Developed computer vision algorithms for 3D map reconstruction, optical flow and evaluated CNNs for vehicle detection at the visual perception group"]
+    },
+    {
+      "name": "German Areospace Center",
+      "position": "Intern, Robotics and Mechatronics Center",
+      "url": "",
+      "startDate": "2012-06-01",
+      "endDate": "2012-09-01",
+      "summary": "",
+      "highlights": ["Designed and implemented a grasp planner for the Justin and Hasy robots as well as physics simulation integrating Bullet Physics Engine with the OpenRave project"]
+    },
+    {
+      "name": "Goldman Sachs",
+      "position": "Intern, Fixed Income Currency and Commodities (FICC)",
+      "url": "",
+      "startDate": "2010-07-01",
+      "endDate": "2010-08-01",
+      "summary": "",
+      "highlights": ["Immersive internship focused on understanding all operational areas with a focus on smart order routing algorithmic trading systems"]
+    },
+    {
+      "name": "PIMCO",
+      "position": "Intern, PIMCO Germany",
+      "url": "",
+      "startDate": "2010-06-01",
+      "endDate": "2010-09-01",
+      "summary": "",
+      "highlights": ["Conceived and implemented a system to parse and format risk report data into an email mailing list for effective distribution using Django and SQL"]
     }
   ],
   "volunteer": [
@@ -39,7 +111,7 @@
       "location": "Freiburg, Germany",
       "position": "Voluenteer",
       "url": "https://www.uwcrobertboschcollege.de/en/living/school-garden/",
-      "startDate": "2014-04-01",
+      "startDate": "2021-04-01",
       "endDate": "",
       "summary": " Community Garden",
       "highlights": []
@@ -56,7 +128,19 @@
       "endDate": "2022-01-01",
       "score": "10",
       "courses": ["Approaches for Robotic Manipulation"]
+    },
+    {
+      "institution": "Ruprecht Karl University of Heidelberg",
+      "location": "Heidelberg, Germany",
+      "url": "https://www.uni-heidelberg.de/en",
+      "area": "Physics",
+      "studyType": "M.Sc.",
+      "startDate": "2015-08-01",
+      "endDate": "2016-04-29",
+      "score": "10",
+      "courses": ["Image Segmentation with CNNs"]
     }
+ 
   ],
   "awards": [
     {
