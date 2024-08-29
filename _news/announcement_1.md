@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our work was featured on the University's Instagram account. See link <a href="https://www.instagram.com/reel/C6x83N4q6B7/?igsh=MWZqNzgxMjZpc2o3Zg==">here</a>.
+Our work was featured on the university's Instagram account. See link <a href="https://www.instagram.com/reel/C6x83N4q6B7/?igsh=MWZqNzgxMjZpc2o3Zg==">here</a>.
