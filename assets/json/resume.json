@@ -255,11 +255,17 @@
   ],
   "interests": [
     {
-      "name": "Hobbies",
+      "name": "Sports",
       "icon": "fa-solid fa-tag",
       "keywords": [
         "Road Biking",
         "Cross-country skiing",
+        "Train Running"]
+    },
+    {
+      "name": "Hobbies",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
         "Gardening",
         "Beekeping",
         "Orcharding"
