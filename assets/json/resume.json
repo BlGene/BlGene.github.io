@@ -72,8 +72,8 @@
       "name": "Mercedes-Benz Group",
       "position": "Intern & Software Engineer, Visual Perception Group",
       "url": "",
-      "startDate": "2012-05-01",
-      "endDate": "2012-09-01",
+      "startDate": "2013-02-01",
+      "endDate": "2013-09-01",
       "summary": "",
       "highlights": ["Developed computer vision algorithms for 3D map reconstruction, optical flow and evaluated CNNs for vehicle detection at the visual perception group"]
     },
@@ -81,8 +81,8 @@
       "name": "German Areospace Center",
       "position": "Intern, Robotics and Mechatronics Center",
       "url": "",
-      "startDate": "2012-06-01",
-      "endDate": "2012-09-01",
+      "startDate": "2011-07-01",
+      "endDate": "2011-09-30",
       "summary": "",
       "highlights": ["Designed and implemented a grasp planner for the Justin and Hasy robots as well as physics simulation integrating Bullet Physics Engine with the OpenRave project"]
     },
