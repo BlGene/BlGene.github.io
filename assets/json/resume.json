@@ -99,8 +99,8 @@
       "name": "PIMCO",
       "position": "Intern, PIMCO Germany",
       "url": "",
-      "startDate": "2010-06-01",
-      "endDate": "2010-09-01",
+      "startDate": "2009-06-01",
+      "endDate": "2009-09-01",
       "summary": "",
       "highlights": ["Conceived and implemented a system to parse and format risk report data into an email mailing list for effective distribution using Django and SQL"]
     }
