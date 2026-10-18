@@ -17,15 +17,15 @@ permalink: /
 
 <h2>News</h2>
 <table>
-<tr><td class='date'>Oct 2026</td><td>Talk at <a href="https://www.yale.edu/">Yale</a> with <a href="https://www.eng.yale.edu/grablab/">Aron Dollar</a>: “Scaling Robot Learning and Evaluation in Simulation”.</td></tr>
-<tr><td class='date'>Sep 2026</td><td>Talk at <a href="https://www.generalrobotics.company/">General Robotics</a>: “Scaling Robot Learning and Evaluation in Simulation”.</td></tr>
-<tr><td class='date'>Jul 2026</td><td>Talk at the <a href="https://www.dlr.de/en/rm">German Aerospace Center (DLR)</a>, hosted by Rudolph Triebel: “Beyond Behavior-Cloning from Teleoperation for Robot Models”.</td></tr>
+<tr><td class='date'>Oct 2026</td><td>Talk at <a href="https://www.yale.edu/">Yale</a> with <a href="https://www.eng.yale.edu/grablab/">Aron Dollar</a>.</td></tr>
+<tr><td class='date'>Sep 2026</td><td>Talk at <a href="https://www.generalrobotics.company/">General Robotics</a>.</td></tr>
+<tr><td class='date'>Jul 2026</td><td>Talk at the <a href="https://www.dlr.de/en/rm">German Aerospace Center (DLR)</a>, hosted by Rudolph Triebel.</td></tr>
 <tr><td class='date'>2026</td><td>MolmoBot accepted as an <b>oral</b> at CoRL 2026 (687 of 2,094 submissions accepted, 32.8%; 72 spotlight/oral).</td></tr>
 <tr><td class='date'>2026</td><td>MolmoMotion accepted as a <b>spotlight</b> at NeurIPS 2026 (292 spotlights among 7,900 accepted of 30,709 valid submissions, 25.7%).</td></tr>
 <tr><td class='date'>Aug 2024</td><td>Ditto published at IROS. <a href='http://ditto.cs.uni-freiburg.de/'>Project page</a>.</td></tr>
 <tr><td class='date'>Aug 2024</td><td>Our work on climate adaptation was featured in Badische Zeitung. <a href='/assets/img/badische_zeitung_utci.jpg'>Article</a>.</td></tr>
-<tr><td class='date'>Mar 2024</td><td>Talk at <a href="https://www.epfl.ch/">EPFL</a> with <a href="https://www.epfl.ch/labs/lasa/">Aude Billard</a>: “Learning Manipulation from Human Demonstrations”.</td></tr>
-<tr><td class='date'>Mar 2023</td><td>Talk at <a href="https://www.kth.se/">KTH</a> with <a href="https://www.kth.se/profile/dani">Danica Kragic</a>: “Learning Manipulation from Human Demonstrations”.</td></tr>
+<tr><td class='date'>Mar 2024</td><td>Talk at <a href="https://www.epfl.ch/">EPFL</a> with <a href="https://www.epfl.ch/labs/lasa/">Aude Billard</a>.</td></tr>
+<tr><td class='date'>Mar 2023</td><td>Talk at <a href="https://www.kth.se/">KTH</a> with <a href="https://www.kth.se/profile/dani">Danica Kragic</a>.</td></tr>
 </table>
 
 <h2>Research</h2>
