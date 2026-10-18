@@ -18,6 +18,8 @@ permalink: /
 <h2>News</h2>
 <table>
 <tr><td class='date'>Oct 2026</td><td>Talk at <a href="https://www.yale.edu/">Yale</a> with <a href="https://www.eng.yale.edu/grablab/">Aron Dollar</a>: “Scaling Robot Learning and Evaluation in Simulation”.</td></tr>
+<tr><td class='date'>Sep 2026</td><td>Talk at <a href="https://www.generalrobotics.company/">General Robotics</a>: “Scaling Robot Learning and Evaluation in Simulation”.</td></tr>
+<tr><td class='date'>Jul 2026</td><td>Talk at the <a href="https://www.dlr.de/en/rm">German Aerospace Center (DLR)</a>, hosted by Rudolph Triebel: “Beyond Behavior-Cloning from Teleoperation for Robot Models”.</td></tr>
 <tr><td class='date'>2026</td><td>MolmoBot accepted as an <b>oral</b> at CoRL 2026 (687 of 2,094 submissions accepted, 32.8%; 72 spotlight/oral).</td></tr>
 <tr><td class='date'>2026</td><td>MolmoMotion accepted as a <b>spotlight</b> at NeurIPS 2026 (292 spotlights among 7,900 accepted of 30,709 valid submissions, 25.7%).</td></tr>
 <tr><td class='date'>Aug 2024</td><td>Ditto published at IROS. <a href='http://ditto.cs.uni-freiburg.de/'>Project page</a>.</td></tr>
